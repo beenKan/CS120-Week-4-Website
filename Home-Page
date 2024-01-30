@@ -1,0 +1,17 @@
+HOME PAGE
+# This page will act as a hub for all other pages on the website
+
+<h1>Welcome to the Scotland Pet Sanctuaries Website</h1>
+<p>Helping to rescue animals everywhere</p>
+
+<nav>
+  [Link to "Adoption" page]
+  [Link to "Photos" page]
+  [Link to "Contact Us" page]
+  [Link to "About Us" page]
+  [Link to "Locations" page]
+</nav>
+# Navigation bar to get to all other pages
+
+<footer>Copyright: 2024</footer>
+# Footer with necessary website information
